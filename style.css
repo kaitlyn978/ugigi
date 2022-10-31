@@ -1,0 +1,22 @@
+h4{
+    background-color: darkblue;
+    line-height: 2;
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color:ghostwhite;
+}
+.modal-dialog{
+    width:90%;
+}
+.copy_right_footer{
+    position: fixed;
+    color: lightskyblue;
+    bottom: 0;
+    width: 100%;
+    background-color:royalblue;
+    line-height: 3;
+    text-align: center;
+}
